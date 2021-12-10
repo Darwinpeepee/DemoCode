@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 132 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Demo.vcxproj -> C:\Users\kelly\source\repos\Demo-sln\x64\Release\Demo.exe
